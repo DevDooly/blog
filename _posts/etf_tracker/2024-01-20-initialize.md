@@ -1,7 +1,7 @@
 ---
-title: Start ToyProject :: ETF Tracker
+title: ETF Tracer] Initialize
 author: rudy
-# date: 2024-01-19 11:33:00 +0800
+date: 2024-01-20 10:39:00 +0900
 categories: [ToyProject, ETF Tracker]
 tags: [ToyProject, ETF Tracker]
 ---
