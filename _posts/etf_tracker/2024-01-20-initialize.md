@@ -1,14 +1,9 @@
 ---
 title: ETF Tracer] Initialize
-author: rudy
-date: 2024-01-20 10:39:00 +0900
+# date: 2024-01-20 10:39:00 +0900
 categories: [ToyProject, ETF Tracker]
 tags: [ToyProject, ETF Tracker]
 ---
-
-# ToyProject :: ETF Tracker 
-## Initialize
-
 Target ETF 의 투자리스트 및 각 종목별 등락률 조회
 
 조회된 데이터를 보여주는 방식은 아래와 같다.
